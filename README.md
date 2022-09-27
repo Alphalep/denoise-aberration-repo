@@ -1,5 +1,5 @@
-# denoising-seidel-aberration-repo
-Seidel aberrations causes shift variant blurring in images . Our goal is to reduce those aberrations using modern Deep-Learning algorithms to restore clear images.
+# Denoising Seidel Aberrations-repo
+Seidel aberrations causes shift variant blurring in images as it arrives at the sensor due to optical imperfections . Our goal is to reduce those aberrations using modern Deep-Learning Algorithms to restore clear images.This will lead to an improvement in highly critical imaing such as microscopy, telescopy as well as medical imaging.
 Project is in progress!
 
 1. Simulation of Seidel aberrations- Done
